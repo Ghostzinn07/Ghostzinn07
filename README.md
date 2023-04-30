@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**Ghostzinn07/Ghostzinn07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou o geff, também conhecido como Ghostzinn07 👋
 
-Here are some ideas to get you started:
+Sou um programador e youtuber, apaixonado por criar bots para Discord e diversos projetos aleatórios por diversão e para aprender mais. Atualmente estou estudando e tenho planos de criar jogos em breve. Abaixo estão algumas informações sobre as minhas habilidades e onde você pode me encontrar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+<p align="center">
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white" alt="Lua">
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" alt="PHP">
+</p>
+
+## Redes Sociais
+
+<p align="center">
+    <a href="https://www.instagram.com/Ghostzinn07/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://www.youtube.com/c/Ghostzinn07"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+</p>
+
+<br>
+
+Fique à vontade para entrar em contato comigo em qualquer uma das minhas redes sociais acima!
+
+</div>
