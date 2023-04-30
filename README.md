@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Olá! Eu sou o geff, também conhecido como Ghostzinn07 👋</h1>
+<h2>Olá! Eu sou o geff, também conhecido como Ghostzinn07 👋</h2>
 
 <p>Sou um programador e youtuber, apaixonado por criar bots para Discord e diversos projetos aleatórios por diversão e para aprender mais. Atualmente estou estudando e tenho planos de criar jogos em breve. Abaixo estão algumas informações sobre as minhas habilidades e onde você pode me encontrar:</p>
 
