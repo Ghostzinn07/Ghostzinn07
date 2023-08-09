@@ -21,7 +21,7 @@
 </p>
 
 <p align="center"> 
-  Há em torno de um ano atrás, quando comecei a me interessar por programação, decidi começar com Node.js, por ser uma linguagem simples e fácil de aprender, hoje em dia tenho um bom domínio da tecnologia. Recentemente, tenho estudado extensivamente as linguagens Lua e PHP, para poder desenvolver novos projetos em breve. Geralmente eu costumo desenvolver aplicativos, sites e criar bots para o Discord.
+  Há em torno de 3 anos atrás, quando comecei a me interessar por programação, decidi começar com Node.js, por ser uma linguagem simples e fácil de aprender, hoje em dia tenho um bom domínio da tecnologia. Recentemente, tenho estudado extensivamente as linguagens Lua e PHP, para poder desenvolver novos projetos em breve. Geralmente eu costumo desenvolver aplicativos, sites e criar bots para o Discord.
 </p>
 
 <h2 align="center">Educação</h2>
