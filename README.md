@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white">
-  <img src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-2C2D72?style=flat-square&logo=Lua&logoColor=white">
 </p>
 
 <p align="center"> 
