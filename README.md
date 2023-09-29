@@ -6,7 +6,6 @@
   <a href="https://discord.com/users/920888751843074079"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/920888751843074079"></a>
 </p>
 
-<img src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
 
 <p align="center"> 
   Meu nome é Geff, eu moro no Brasil, tenho 15 anos e sou Youtuber e programador. Tenho como objetivo melhorar mais ainda como programador e desenvolver diversos aplicativos e jogos.
@@ -24,16 +23,10 @@
   Há em torno de 3 anos atrás, quando comecei a me interessar por programação, decidi começar com Node.js, por ser uma linguagem simples e fácil de aprender, hoje em dia tenho um bom domínio da tecnologia. Recentemente, tenho estudado extensivamente as linguagens Lua e PHP, para poder desenvolver novos projetos em breve. Geralmente eu costumo desenvolver aplicativos, sites e criar bots para o Discord.
 </p>
 
-<h2 align="center">Educação</h2>
-
-<p align="center">
-  Eu sou um programador autodidata, desde sempre aprendi programação através de fóruns, documentações e cursos online. Tenho me dedicado bastante para estar sempre por dentro das novas tecnologias que surgem a todo momento.
-</p>
-
 <h2 align="center">Estatísticas</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghostzinn07&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostzinn07&layout=compact&show_icons=true&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghostzinn07&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Status no GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostzinn07&layout=compact&show_icons=true&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
