@@ -15,7 +15,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-HTML-777BB4?style=flat-square&logo=HTML&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-2C2D72?style=flat-square&logo=Python&logoColor=white">
 </p>
 
