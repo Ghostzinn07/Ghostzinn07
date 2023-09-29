@@ -1,7 +1,6 @@
 <h1 align="center">Olá! <img src="https://images-ext-2.discordapp.net/external/zXfi4pbNQnDyPEIwL0SI1SDa1en5JprLMu8g7snfcpk/https/cdn.discordapp.com/emojis/1070539611870347284.png" width="30px"></h1>
 
 <p align="center">
-  <a href="https://github.com/Ghostzinn07"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Ghostzinn07"></a>
   <a href="https://www.instagram.com/Ghostzinn07/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/Ghostzinn07/"></a>
   <a href="https://discord.com/users/920888751843074079"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/920888751843074079"></a>
 </p>
