@@ -7,7 +7,7 @@
 
 
 <p align="center"> 
-  Meu nome é Geff, eu moro no Brasil, tenho 15 anos e sou Youtuber e programador. Tenho como objetivo melhorar mais ainda como programador e desenvolver diversos aplicativos e jogos.
+  Meu nome é Geff, eu moro no Brasil, tenho 16 anos e sou Youtuber e programador. Tenho como objetivo melhorar mais ainda como programador e desenvolver diversos aplicativos e jogos.
 </p>
 
 <h2 align="center">Habilidades e Experiência</h2>
